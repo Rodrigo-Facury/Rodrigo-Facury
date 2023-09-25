@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Facury</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Star Trail](https://startrail.com.br/)
+- 🔭 I’m currently working on [Star Trail](https://startrail.com.br/), which is a social network for developers. There they can share suggestions of learning paths to ease the beginners' way into the IT world.
 
 - 💬 Ask me about **React, Node.js, TypeScript, JavaScript**
 
